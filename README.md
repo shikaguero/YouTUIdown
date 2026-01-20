@@ -18,3 +18,22 @@ Si deseas ejecutar el código fuente:
 1. Clona el repositorio:
    ```bash
    git clone [https://github.com/shikaguero/YouTUIdown.git](https://github.com/shikaguero/YouTUIdown.git)
+
+ 2.  Instala las dependencias:
+    Bash
+
+    pip install -r requirements.txt
+
+⌨️ Atajos de Teclado
+
+    P: Pegar enlace desde el portapapeles.
+
+    L: Limpiar el campo de texto.
+
+    D: Seleccionar carpeta de destino.
+
+    S: Iniciar descarga.
+
+    A: Ver ayuda/créditos.
+
+    Q: Salir.
