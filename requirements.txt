@@ -1,0 +1,4 @@
+```text
+textual
+yt-dlp
+pyperclip
